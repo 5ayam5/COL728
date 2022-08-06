@@ -1,0 +1,3 @@
+[submodule "Assignments/cc"]
+	path = Assignments/cc
+	url = https://github.com/iitd-plos/cc.git
